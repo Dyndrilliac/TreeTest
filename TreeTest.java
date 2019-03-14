@@ -8,6 +8,7 @@
 
 import api.util.datastructures.Tree;
 import api.util.datastructures.TreeNode.TRAVERSAL_ORDER;
+import edu.princeton.cs.introcs.StdOut;
 
 public class TreeTest
 {
